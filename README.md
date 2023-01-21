@@ -1,16 +1,14 @@
-# ImageFilters
+# STB Image Filters
 
 A small one header C library for applying simple filters:
 
-Source/Result image:<br>
-<img src="./images/burger.jpg" alt="Source image" width="350">
-<img src="./images/burger_out.jpg" alt="Result image" width="350">
-
+| Source image | Result image |
+| --- | --- |
+| ![Source image](https://raw.githubusercontent.com/ImageProcessing-ElectronicPublications/stb-image-filters-demo/main/images/burger.jpg) | ![Result image](https://raw.githubusercontent.com/ImageProcessing-ElectronicPublications/stb-image-filters-demo/main/images/burger_out.jpg) |
 
 # Disclaimer
 
 This software is supplied "AS IS" without any warranties and support
-
 
 # License
 
